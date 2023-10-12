@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-nodejs",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "argon-design",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "45b536f3-0458-4045-822a-2ddb19fe5d03",
+    "task_info": "Upload Sources [0%] - 187 files",
+    "task_output": "45b536f3-0458-4045-822a-2ddb19fe5d03.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-10-12-22-45-02",
+    "task_ts_start": "2023-10-12-22-45-00"
+}
